@@ -1,9 +1,9 @@
 [X-GNOME-Metatheme]
-Name=Yaru-Orange-dark-ubuntu
+Name=xfce-ubuntu-style-mu71l473d
 Type=X-GNOME-Metatheme
-Comment=Ubuntu Yaru-Dark edited theme - forked with a stylish Orange base color
+Comment=Ubuntu Yaru-Dark edited theme - forked with a stylish Orange base color and some other changes
 Encoding=UTF-8
-GtkTheme=Yaru-Orange
-IconTheme=Yaru-Orange
-CursorTheme=Yaru
+GtkTheme=xfce-ubuntu-style
+IconTheme=xfce-ubuntu-style
+CursorTheme=xfce-ubuntu-style
 CursorSize=24
