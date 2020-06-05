@@ -1,7 +1,7 @@
 [X-GNOME-Metatheme]
-Name=Yaru-Orange-dark
+Name=Yaru-Orange-dark-ubuntu
 Type=X-GNOME-Metatheme
-Comment=Ubuntu Yaru-Dark theme - forked with a stylish Orange base color
+Comment=Ubuntu Yaru-Dark edited theme - forked with a stylish Orange base color
 Encoding=UTF-8
 GtkTheme=Yaru-Orange
 IconTheme=Yaru-Orange
